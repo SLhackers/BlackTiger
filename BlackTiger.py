@@ -49,7 +49,7 @@ def jembut():
 def yayanxd():
     yayan=input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if yayan == "": 
-       os.system("python Cr4ck.py")
+       os.system("python BlackTiger.py")
     else:
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
 def moch_yayan():
